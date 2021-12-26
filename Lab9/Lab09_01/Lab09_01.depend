@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1638095050 source:c:\users\shrook\desktop\lab09_01\main.cpp
+	<iostream>
+	"Base.h"
+	"Derived.h"
+
+1638093607 c:\users\shrook\desktop\lab09_01\base.h
+
+1638094835 c:\users\shrook\desktop\lab09_01\derived.h
+	"Base.h"
+
+1638094797 source:c:\users\shrook\desktop\lab09_01\base.cpp
+	<iostream>
+	"Base.h"
+
+1638094851 source:c:\users\shrook\desktop\lab09_01\derived.cpp
+	<iostream>
+	"Derived.h"
+

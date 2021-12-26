@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1637236596 source:c:\users\shrook\desktop\lab08_01\point.cpp
+	<iostream>
+	"Point.h"
+
+1637237337 c:\users\shrook\desktop\lab08_01\point.h
+
+1637238193 source:c:\users\shrook\desktop\lab08_01\circle.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+
+1637237357 c:\users\shrook\desktop\lab08_01\circle.h
+	"Point.h"
+
+1637238428 source:c:\users\shrook\desktop\lab08_01\line.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+
+1637237366 c:\users\shrook\desktop\lab08_01\line.h
+	"Point.h"
+
+1637238177 source:c:\users\shrook\desktop\lab08_01\rectangle.cpp
+	<iostream>
+	"Point.h"
+	"Rectangle.h"
+
+1637237386 c:\users\shrook\desktop\lab08_01\rectangle.h
+	"Point.h"
+
+1637236682 source:c:\users\shrook\desktop\lab08_01\main.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Picture.h"
+
+1637237375 c:\users\shrook\desktop\lab08_01\picture.h
+	"Line.h"
+	"Rectangle.h"
+	"Circle.h"
+
+1637238121 source:c:\users\shrook\desktop\lab08_01\picture.cpp
+	<iostream>
+	"Line.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Picture.h"
+
+1637242650 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\circle.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+
+1637237337 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\point.h
+
+1637237357 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\circle.h
+	"Point.h"
+
+1637242641 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\line.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+
+1637237366 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\line.h
+	"Point.h"
+
+1637242558 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\picture.cpp
+	<iostream>
+	"Line.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Picture.h"
+
+1637237386 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\rectangle.h
+	"Point.h"
+
+1637242558 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\picture.h
+	"Line.h"
+	"Rectangle.h"
+	"Circle.h"
+
+1637236596 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\point.cpp
+	<iostream>
+	"Point.h"
+
+1637242654 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\rectangle.cpp
+	<iostream>
+	"Point.h"
+	"Rectangle.h"
+
+1637242629 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab8\lab08_01\main.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Picture.h"
+

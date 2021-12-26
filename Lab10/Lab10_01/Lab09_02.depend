@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1638106336 source:c:\users\shrook\desktop\lab09_02\main.cpp
+	<iostream>
+	"GeoShape.h"
+	"Triangle.h"
+	"Rectangle.h"
+	"Square.h"
+	"Circle.h"
+
+1638106832 source:c:\users\shrook\desktop\lab09_02\geoshape.cpp
+	<iostream>
+	"GeoShape.h"
+
+1638106781 c:\users\shrook\desktop\lab09_02\geoshape.h
+
+1638106824 source:c:\users\shrook\desktop\lab09_02\circle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Circle.h"
+
+1638106781 c:\users\shrook\desktop\lab09_02\circle.h
+	"GeoShape.h"
+
+1638106842 source:c:\users\shrook\desktop\lab09_02\square.cpp
+	<iostream>
+	"Rectangle.h"
+	"Square.h"
+
+1638106781 c:\users\shrook\desktop\lab09_02\rectangle.h
+	"GeoShape.h"
+
+1638106781 c:\users\shrook\desktop\lab09_02\square.h
+	"Rectangle.h"
+
+1638106837 source:c:\users\shrook\desktop\lab09_02\rectangle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Rectangle.h"
+
+1638101682 source:c:\users\shrook\desktop\lab09_02\triangle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Triangle.h"
+
+1638106781 c:\users\shrook\desktop\lab09_02\triangle.h
+	"GeoShape.h"
+
+1638106824 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\circle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Circle.h"
+
+1638190778 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\geoshape.h
+
+1638190581 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\circle.h
+	"GeoShape.h"
+
+1638190768 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\geoshape.cpp
+	<iostream>
+	"GeoShape.h"
+
+1638106336 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\main.cpp
+	<iostream>
+	"GeoShape.h"
+	"Triangle.h"
+	"Rectangle.h"
+	"Square.h"
+	"Circle.h"
+
+1638190569 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\triangle.h
+	"GeoShape.h"
+
+1638190572 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\rectangle.h
+	"GeoShape.h"
+
+1638190588 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\square.h
+	"Rectangle.h"
+
+1638106837 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\rectangle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Rectangle.h"
+
+1638106842 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\square.cpp
+	<iostream>
+	"Rectangle.h"
+	"Square.h"
+
+1638107000 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab09_02\triangle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Triangle.h"
+
+1638106824 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\circle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Circle.h"
+
+1638190778 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\geoshape.h
+
+1638190581 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\circle.h
+	"GeoShape.h"
+
+1638190768 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\geoshape.cpp
+	<iostream>
+	"GeoShape.h"
+
+1638106837 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\rectangle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Rectangle.h"
+
+1638190572 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\rectangle.h
+	"GeoShape.h"
+
+1638106842 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\square.cpp
+	<iostream>
+	"Rectangle.h"
+	"Square.h"
+
+1638190588 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\square.h
+	"Rectangle.h"
+
+1638107000 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\triangle.cpp
+	<iostream>
+	"GeoShape.h"
+	"Triangle.h"
+
+1638190569 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\triangle.h
+	"GeoShape.h"
+
+1638196790 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab10\lab10_01\main.cpp
+	<iostream>
+	"GeoShape.h"
+	"Triangle.h"
+	"Rectangle.h"
+	"Square.h"
+	"Circle.h"
+
