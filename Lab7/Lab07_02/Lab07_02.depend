@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637152624 source:c:\users\shrook\desktop\lab07_02\complexnumbers.cpp
+	<iostream>
+	<math.h>
+	"ComplexNumbers.h"
+
+1637152545 c:\users\shrook\desktop\lab07_02\complexnumbers.h
+
+1637152785 source:c:\users\shrook\desktop\lab07_02\main.cpp
+	<iostream>
+	<math.h>
+	"ComplexNumbers.h"
+

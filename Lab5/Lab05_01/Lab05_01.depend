@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1636988662 source:c:\users\shrook\desktop\lab05_01\complexnumbers.cpp
+	<iostream>
+	<math.h>
+	"ComplexNumbers.h"
+
+1636978632 c:\users\shrook\desktop\lab05_01\complexnumbers.h
+
+1636988994 source:c:\users\shrook\desktop\lab05_01\main.cpp
+	<iostream>
+	<math.h>
+	"ComplexNumbers.h"
+
+1636988662 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab5\lab05_01\complexnumbers.cpp
+	<iostream>
+	<math.h>
+	"ComplexNumbers.h"
+
+1636978632 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab5\lab05_01\complexnumbers.h
+
+1636989200 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab5\lab05_01\main.cpp
+	<iostream>
+	<math.h>
+	"ComplexNumbers.h"
+

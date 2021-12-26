@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636803373 source:c:\users\shrook\desktop\lab03_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

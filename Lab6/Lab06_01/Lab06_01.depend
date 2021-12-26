@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1637067481 source:c:\users\shrook\desktop\lab06_01\main.cpp
+	<iostream>
+	"StackArray.h"
+
+1637066529 c:\users\shrook\desktop\lab06_01\stackarray.h
+
+1637067491 source:c:\users\shrook\desktop\lab06_01\stackarray.cpp
+	<iostream>
+	"StackArray.h"
+	<assert.h>
+
+1637146119 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab6\lab06_01\stackarray.cpp
+	<iostream>
+	"StackArray.h"
+	<assert.h>
+
+1637146035 d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab6\lab06_01\stackarray.h
+
+1637145567 source:d:\iti (ai track)\9-month scolorship\2- oop\tasks\lab6\lab06_01\main.cpp
+	<iostream>
+	"StackArray.h"
+

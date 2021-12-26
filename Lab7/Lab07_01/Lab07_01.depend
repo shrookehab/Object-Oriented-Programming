@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637146413 source:c:\users\shrook\desktop\lab07_01\main.cpp
+	<iostream>
+	"StackArray.h"
+
+1637149434 c:\users\shrook\desktop\lab07_01\stackarray.h
+
+1637149427 source:c:\users\shrook\desktop\lab07_01\stackarray.cpp
+	<iostream>
+	"StackArray.h"
+	<assert.h>
+
